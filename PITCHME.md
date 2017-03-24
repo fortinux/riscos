@@ -28,7 +28,7 @@
 #HSLIDE
 ### CONTEXTO EXTERNO
 <br>
-<span style="color:gray">Instrução Normativa (IN04): Dispõe sobre o processo de contratação de Soluções de Tecnologia da Informação pelos órgãos integrantes do Sistema de Administração dos Recursos de Informação e Informática - SISP do Poder Executivo Federal. </span>
+###### Instrução Normativa (IN04): Dispõe sobre o processo de contratação de Soluções de Tecnologia da Informação pelos órgãos integrantes do Sistema de Administração dos Recursos de Informação e Informática - SISP do Poder Executivo Federal. 
 <br>
 <br>
 <span style="color:gray">Portaria Nº 20, de 14 de junho 2016:Dispõe sobre orientações para contratação de soluções de Tecnologia da Informação no âmbito da Administração Pública Federal direta, autárquica e fundacional e dá outras providências.</span>
