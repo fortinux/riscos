@@ -41,7 +41,7 @@
 <span style="color:gray">Planejamento Estratégico da SEEDF</span>
 <br>
 <br>
-<span style="color:gray">CGTIC. Estratégia Geral de Tecnologia da Informação 2016-2019.</span>
+<span style="color:gray">CGTIC. Estratégia Geral de Tecnologia da Informação 2016-2019</span>
 <br>
 <br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
@@ -61,7 +61,15 @@
 <br>
 * MIN. DO PLAN., DESENV. E GESTÃO; SEC. DE Tec. da Inf.: Orientações Gerais
 * MIN. DO PLAN., DESENV. E GESTÃO; SEC. DE Tec. da Inf.: Boas práticas, vedações e orientações para contratação de software e de serviços de desenvolvimento e manutenção de sistemas (Fábrica de Software)
-* GOVERNO ELETRÔNICO.  Consulta Licitações de TI, Planilha Fábrica de Software / Templates IN 04/2014, Anexo XII. An. de Riscos
+<br>
+<br>
+![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
+
+#HSLIDE
+### REFERÊNCIAS BIBLIOGRÁFICAS
+<br>
+* GOVERNO ELETRÔNICO.  Consulta Licitações de TI, Planilha Fábrica de Software
+* GOVERNO ELETRÔNICO. Templates IN 04/2014, Anexo XII. Análise de Riscos
 <br>
 <br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
