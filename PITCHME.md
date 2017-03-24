@@ -27,10 +27,8 @@
 
 #HSLIDE
 ### CONTEXTO EXTERNO
-<br>
-- Instrução Normativa (IN04): Dispõe sobre o processo de contratação de Soluções de Tecnologia da Informação pelos órgãos integrantes do Sist. de Adm. dos Rec. de Informação e Informática - SISP do Poder Exec. Fed. 
+- Instrução Normativa (IN04): Dispõe sobre o processo de contratação de Soluções de TI pelos órgãos integrantes do Sist. de Adm. dos Rec. de Informação e Informática - SISP do Poder Exec. Fed. 
 - Portaria Nº 20, de 14 de junho 2016: Dispõe sobre orientações para contratação de soluções de TI no âmbito da Adm. Púb. Fed. direta, autárquica e fundacional e dá outras providências.
-<br>
 <br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
 
@@ -61,10 +59,9 @@
 #HSLIDE
 ### REFERÊNCIAS BIBLIOGRÁFICAS
 <br>
-* MIN. DO PLAN., DESENV. E GESTÃO; SEC. DE Tec. da Inf. Orientações Gerais
-* MIN. DO PLAN., DESENV. E GESTÃO; SEC. DE Tec. da Inf. Boas práticas, vedações e orientações para contratação de software e de serviços de desenvolvimento e manutenção de sistemas (Fábrica de Software)
-* GOVERNO ELETRÔNICO.  Consulta Licitações de TI, Planilha Fábrica de Software
-* GOVERNO ELETRÔNICO. Templates IN 04/2014, Anexo XII - Análise de Riscos
+* MIN. DO PLAN., DESENV. E GESTÃO; SEC. DE Tec. da Inf.: Orientações Gerais
+* MIN. DO PLAN., DESENV. E GESTÃO; SEC. DE Tec. da Inf.: Boas práticas, vedações e orientações para contratação de software e de serviços de desenvolvimento e manutenção de sistemas (Fábrica de Software)
+* GOVERNO ELETRÔNICO.  Consulta Licitações de TI, Planilha Fábrica de Software / Templates IN 04/2014, Anexo XII. An. de Riscos
 <br>
 <br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
