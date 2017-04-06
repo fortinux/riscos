@@ -147,9 +147,7 @@
 #HSLIDE                                                                              
                                                                                      
 ### Tabela 1                  
-
-<br>                                                                                 
-<br>                                                                                 
+![LOGO](https://github.com/fortinux/riscos/blob/master/tabela1ggr.png)
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
 
 #HSLIDE                                                                              
