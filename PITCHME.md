@@ -1,42 +1,24 @@
 <!-- .slide: data-autoslide="10000" -->
 
 #### Avaliação e tratamento dos riscos na recepção de software de terceiros
-<br>
-<span style="color:gray">A Secretaria</span>
-<br>
-<span style="color:gray">Introdução</span>                                           
-<br>
-<span style="color:gray">Objetivos</span>                                           
-<br>
-<span style="color:gray">Contexto externo: Gverno Federal</span>
-<br>
-<span style="color:gray">Governo Estadual</span>                          
-<br>
-<span style="color:gray">Contexto interno</span>
-<br>
-<span style="color:gray">Escopo</span>                                           
-<br>
-<span style="color:gray">Escopo BPM</span>                                           
-<br>
-<span style="color:gray">Escopo: Responsabel e datas</span>
-<br>
-<span style="color:gray">Metodologia e tecnicas</span>                               
-<br>
-<span style="color:gray">Tecnicas</span>                                           
-<br>
-<span style="color:gray">Definição dos critérios de risco</span>                  
-<br>
-<span style="color:gray">Tabela 1</span>                                           
-<br>
-<span style="color:gray">Tabela 2</span>                                           
-<br>
-<span style="color:gray">Risco</span>                                           
-<br>
-<span style="color:gray">Tabela 3</span>                                           
-<br>
-<span style="color:gray">Tabela 4</span>                                           
-<br>
-<span style="color:gray">REFERÊNCIAS BIBLIOGRÁFICAS</span>
+
+- A Secretaria
+- Introdução
+- Objetivos
+- Contexto externo: Governo Federal
+- Governo Estadual
+- Contexto interno
+- Escopo
+- Escopo BPM
+- Escopo: Responsabel e datas
+- Metodologia e tecnicas
+- Tecnicas
+- Tabela 1
+- Tabela 2
+- Risco
+- Tabela 3
+- Tabela 4
+- REFERÊNCIAS BIBLIOGRÁFICAS
 <br>
 <br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
@@ -44,12 +26,12 @@
 #HSLIDE                                                                              
                                                                                      
 ### A Secretaria                                                 
-<br>                                                                                 
-<span style="color:gray">Secretaria de Estado de Educação do Distrito Federal - SEEDF</span>    
-<br>                                                                             
-<span style="color:gray">726 Unidades Escolares, 35375 Professores, 401981 Estudantes</span>                                                                    
-<br>                                                                                 
-<br>                                                                                 
+<br>
+<span style="color:gray">Secretaria de Estado de Educação do Distrito Federal - SEEDF</span>
+<br>
+<span style="color:gray">726 Unidades Escolares, 35375 Professores, 401981 Estudantes</span>
+<br>
+<br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif) 
 
 #HSLIDE
@@ -67,46 +49,39 @@
 #HSLIDE                                                                              
                                                                                      
 ### Objetivos                                                                    
-<br>                                                                                 
-<span style="color:gray">Utilizar o software de outros organismos na SEEDF</span>    
-<br>                                                                                 
-<br>                                                                                 
-<span style="color:gray">Avaliação e tratamento dos riscos do processo de recepção de software de outros organismos públicos</span>                                       
-<br>                                                                                 
-<br>                                                                                 
+<br>
+- Aumentar a probabilidade de atingir os objetivos
+- Melhorar a eficácia  e a eficiência operacional
+- Melhorar os controles e a governança
+<br>
+<br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
 
 
 #HSLIDE
 ### Contexto Externo: Governo Federal
-- Instrução Normativa (IN04): Dispõe sobre o processo de contratação de Soluções de TI pelos órgãos integrantes do Sist. de Adm. dos Rec. de Informação e Informática - SISP do Poder Exec. Fed. 
-- Portaria Nº 20, de 14 de junho 2016: Dispõe sobre orientações para contratação de soluções de TI no âmbito da Adm. Púb. Fed. direta, autárquica e fundacional e dá outras providências.
+- Normativa 04 (IN04): dispõe sobre o processo de contratação de Soluções de TI
+- Portaria Nº 20 da SLTI – MP: dispõe sobre orientações, boas práticas e vedações de caráter geral
 <br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
 
 #HSLIDE                                                                              
                                                                                      
 ### Governo Estadual                                                                 
-<br>                                                                                
-<span style="color:gray">Utilizar o software de outros organismos na SEEDF</span>    
-<br>                                                                                 
-<br>                                                                                 
-<span style="color:gray">Avaliação e tratamento dos riscos do processo de recepção de software de outros organismos públicos</span>                                       
-<br>                                                                                 
-<br>                                                                                 
+<br>
+- Estratégia Geral de TI 2016-2019 - EGTI: Aprimorar a Governança de TI. Meta reduzir riscos inerentes ás atividades de TI 
+- CGTIC: criou grupos de trabalho para compartilhar informação e aplicações
+<br>
+<br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
 
 ---
 #HSLIDE
 ### Contexto Interno
 <br>
-<span style="color:gray">PDTIC SEEDF</span>
-<br>
-<br>
-<span style="color:gray">Planejamento Estratégico da SEEDF</span>
-<br>
-<br>
-<span style="color:gray">CGTIC. Estratégia Geral de Tecnologia da Informação 2016-2019</span>
+- PDTIC SEEDF
+- Planejamento Estratégico da SEEDF
+- CGTIC. Estratégia Geral de Tecnologia da Informação 2016-2019
 <br>
 <br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
@@ -114,23 +89,16 @@
 #HSLIDE                                                                              
                                                                                      
 ### Escopo                  
-<br>                                                                                 
-<span style="color:gray">Utilizar o software de outros organismos na SEEDF</span>    
-<br>                                                                                 
-<br>                                                                                 
-<span style="color:gray">Avaliação e tratamento dos riscos do processo de recepção de software de outros organismos públicos</span>                                       
-<br>                                                                                 
-<br>                                                                                 
+- O processo de recepção de software de outros organismos
+- Identificar, analizar, avaliar para o posterior tratamento e gestão dos riscos das etapas deste processo
+<br>
+<br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
 
 #HSLIDE                                                                              
                                                                                      
 ### Escopo BPM                  
-<br>                                                                                 
-<span style="color:gray">Utilizar o software de outros organismos na SEEDF</span>    
-<br>                                                                                 
-<br>                                                                                 
-<span style="color:gray">Avaliação e tratamento dos riscos do processo de recepção de software de outros organismos públicos</span>                                       
+
 <br>                                                                                 
 <br>                                                                                 
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
@@ -138,35 +106,29 @@
 #HSLIDE                                                                              
                                                                                      
 ### Escopo: Responsavel e datas                  
-<br>                                                                                 
-<span style="color:gray">Utilizar o software de outros organismos na SEEDF</span>    
-<br>                                                                                 
-<br>                                                                                 
-<span style="color:gray">Avaliação e tratamento dos riscos do processo de recepção de software de outros organismos públicos</span>                                       
-<br>                                                                                 
-<br>                                                                                 
+- Responsável: Coordenação de Modernização da Gestão – COMOG, que pertence á SUMTEC.
+- O escopo contempla a elaboração de um documento com os riscos identificados, analisados, avaliados e as soluções para o tratamento dos mesmos
+- Data: 01/06/2017
+<br>
+<br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
 
 #HSLIDE                                                                              
                                                                                      
 ### Metodologias e tecnicas                  
-<br>                                                                                 
-<span style="color:gray">Utilizar o software de outros organismos na SEEDF</span>    
-<br>                                                                                 
-<br>                                                                                 
-<span style="color:gray">Avaliação e tratamento dos riscos do processo de recepção de software de outros organismos públicos</span>                                       
-<br>                                                                                 
-<br>                                                                                 
+- Norma ABNT NBR ISO 31000:2009
+- Técnicas para a avaliação de riscos da ABNT NBR ISO 31010:2012
+<br>
+<br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
 
 #HSLIDE                                                                              
                                                                                      
 ### Tecnicas                  
-<br>                                                                                 
-<span style="color:gray">Utilizar o software de outros organismos na SEEDF</span>    
-<br>                                                                                 
-<br>                                                                                 
-<span style="color:gray">Avaliação e tratamento dos riscos do processo de recepção de software de outros organismos públicos</span>                                       
+- Brainstorming
+- Entrevistas
+- Listas de verificação
+- Matriz de probabilidade/consequência
 <br>                                                                                 
 <br>                                                                                 
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
@@ -174,11 +136,9 @@
 #HSLIDE                                                                              
                                                                                      
 ### Definição dos critérios de risco                  
-<br>                                                                                 
-<span style="color:gray">Utilizar o software de outros organismos na SEEDF</span>    
-<br>                                                                                 
-<br>                                                                                 
-<span style="color:gray">Avaliação e tratamento dos riscos do processo de recepção de software de outros organismos públicos</span>                                       
+- Estabelecidos no PDTIC no Plano de Gestão de Riscos
+- Baseados na norma ABNT NBR ISO 27005:2011 gestão de riscos de SI.
+- Adaptados á norma ABNT NBR ISO 31000:2009
 <br>                                                                                 
 <br>                                                                                 
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
@@ -186,11 +146,7 @@
 #HSLIDE                                                                              
                                                                                      
 ### Tabela 1                  
-<br>                                                                                 
-<span style="color:gray">Utilizar o software de outros organismos na SEEDF</span>    
-<br>                                                                                 
-<br>                                                                                 
-<span style="color:gray">Avaliação e tratamento dos riscos do processo de recepção de software de outros organismos públicos</span>                                       
+
 <br>                                                                                 
 <br>                                                                                 
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
@@ -198,11 +154,7 @@
 #HSLIDE                                                                              
                                                                                      
 ### Tabela 2                  
-<br>                                                                                 
-<span style="color:gray">Utilizar o software de outros organismos na SEEDF</span>    
-<br>                                                                                 
-<br>                                                                                 
-<span style="color:gray">Avaliação e tratamento dos riscos do processo de recepção de software de outros organismos públicos</span>                                       
+
 <br>                                                                                 
 <br>                                                                                 
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
@@ -211,11 +163,9 @@
                                                                                      
 ### Risco                  
 <br>                                                                                 
-<span style="color:gray">Utilizar o software de outros organismos na SEEDF</span>    
+<span style="color:gray">RISCO = Probabilidade de ocorrência X Impacto</span>    
 <br>                                                                                 
-<br>                                                                                 
-<span style="color:gray">Avaliação e tratamento dos riscos do processo de recepção de software de outros organismos públicos</span>                                       
-<br>                                                                                 
+<br>                                                                             
 <br>                                                                                 
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
 
@@ -224,10 +174,6 @@
                                                                                      
 ### Tabela 3                  
 <br>                                                                                 
-<span style="color:gray">Utilizar o software de outros organismos na SEEDF</span>    
-<br>                                                                                 
-<br>                                                                                 
-<span style="color:gray">Avaliação e tratamento dos riscos do processo de recepção de software de outros organismos públicos</span>                                       
 <br>                                                                                 
 <br>                                                                                 
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
