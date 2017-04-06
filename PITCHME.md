@@ -29,7 +29,9 @@
 <br>
 <span style="color:gray">Secretaria de Estado de Educação do Distrito Federal - SEEDF</span>
 <br>
-<span style="color:gray">726 Unidades Escolares, 35375 Professores, 401981 Estudantes</span>
+- 726 Unidades Escolares
+- 35375 Professores
+- 401981 Estudantes
 <br>
 <br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif) 
@@ -65,8 +67,7 @@
 <br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
 
-#HSLIDE                                                                              
-                                                                                     
+#HSLIDE                                                                                                                                                                  
 ### Governo Estadual                                                                 
 <br>
 - Estratégia Geral de TI 2016-2019 - EGTI: Aprimorar a Governança de TI. Meta reduzir riscos inerentes ás atividades de TI 
@@ -75,7 +76,7 @@
 <br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
 
----
+
 #HSLIDE
 ### Contexto Interno
 <br>
@@ -85,9 +86,9 @@
 <br>
 <br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
----
-#HSLIDE                                                                              
-                                                                                     
+
+
+#HSLIDE                                                                                                                                                             
 ### Escopo                  
 - O processo de recepção de software de outros organismos
 - Identificar, analizar, avaliar para o posterior tratamento e gestão dos riscos das etapas deste processo
@@ -196,7 +197,6 @@
 <br>
 <br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
----
 
 #HSLIDE
 ### REFERÊNCIAS BIBLIOGRÁFICAS
@@ -206,7 +206,6 @@
 <br>
 <br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
----
 
 #HSLIDE
 ### REFERÊNCIAS BIBLIOGRÁFICAS
@@ -217,7 +216,6 @@
 <br>
 <br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
----
 
 #HSLIDE
 <br>
@@ -229,5 +227,4 @@
 <br>
 <br>
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
----
 
