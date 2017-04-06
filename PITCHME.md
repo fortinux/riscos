@@ -100,8 +100,7 @@
                                                                                      
 ### Escopo BPM                  
 
-<br>                                                                                 
-<br>                                                                                 
+![IMAGE](https://github.com/fortinux/riscos/blob/master/bpmn-riscos02.png)
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
 
 #HSLIDE                                                                              
@@ -147,15 +146,13 @@
 #HSLIDE                                                                              
                                                                                      
 ### Tabela 1                  
-![LOGO](https://github.com/fortinux/riscos/blob/master/tabela1ggr.png)
+![IMAGE](https://github.com/fortinux/riscos/blob/master/tabela1ggr.png)
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
 
 #HSLIDE                                                                              
                                                                                      
 ### Tabela 2                  
-
-<br>                                                                                 
-<br>                                                                                 
+![IMAGE](https://github.com/fortinux/riscos/blob/master/tabela2.png)
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
 
 #HSLIDE                                                                              
@@ -172,17 +169,13 @@
 #HSLIDE                                                                              
                                                                                      
 ### Tabela 3                  
-<br>                                                                                 
-<br>                                                                                 
-<br>                                                                                 
+![IMAGE](https://github.com/fortinux/riscos/blob/master/tabela3.png)
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
 
 #HSLIDE                                                                              
                                                                                      
 ### Tabela 4                 
-<br>                                                                                 
-<br>                                                                                 
-<br>                                                                                 
+![IMAGE](https://github.com/fortinux/riscos/blob/master/tabela4.png)
 ![LOGO](http://www.marca.unb.br/img/assinatura_cor/as_comp_cor.gif)
 
 
